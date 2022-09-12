@@ -33,6 +33,9 @@ a { color:blue; text-decoration: none;}
 .sidebar {
     border-right: solid 1px #cdcdcd;
 }
+.logo{
+    text-align: left;
+}
 figure {
     text-align: center;
 }
